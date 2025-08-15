@@ -5,7 +5,7 @@
 <img align="right" alt"Data Science" width="400" src="https://miro.medium.com/v2/resize:fit:900/1*YCrp0Z8mAOe2IUV9XmlEDw.gif">
 
 
-
+<h3></h3>
 <p align="left"> <a href="https://twitter.com/gheedhion" target="blank"><img src="https://img.shields.io/twitter/follow/gheedhion?logo=twitter&style=for-the-badge" alt="gheedhion" /></a> </p>
 <p><b> ABOUT ME </b></p>
 <p> I am a data enthusiast with a strong focus on the intersection of <b> Data Science and Finance </b> where analytical precision meets strategic decision-making. I excel at exploring datasets, identifying trends, and developing models that transform raw financial information into clear, actionable insights.
