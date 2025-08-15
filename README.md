@@ -2,9 +2,9 @@
 <img align="center" alt"Data Science" width="1600" height="380" src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=KTbbDeJ4Wwf6KFCPZ0Q1Et1jbaD7d81SHbTx-NVs3QA">
 <h2 align="center">Welcome, I'm Gideon Aremu</h2>
 <h4 align="center">Data Science & Finance Enthusiast | Python, SQL, Power BI, Excel </h4>
-<img align="right" alt"Data Science" width="400" src="https://miro.medium.com/v2/resize:fit:900/1*YCrp0Z8mAOe2IUV9XmlEDw.gif">
+<img align="right" alt"Data Science" width="400" src="https://miro.medium.com/v2/resize:fit:900/1*YCrp0Z8mAOe2IUV9XmlEDw.gif"> <br>
 
-<p align="left"><b> ABOUT ME </b></p>
+<h4 align="left"><b> ABOUT ME </b></h4>
 <p> I am a data enthusiast with a strong focus on the intersection of <b> Data Science and Finance </b> where analytical precision meets strategic decision-making. I excel at exploring datasets, identifying trends, and developing models that transform raw financial information into clear, actionable insights.
 
 My skill set includes <b>Python (Pandas, NumPy, Scikit-learn), SQL, and Excel </b>, complemented by expertise in visualization tools such as <b> Power BI, Matplotlib, and Seaborn.</b> I take pride in delivering solutions that not only address complex problems but also communicate insights effectively.
