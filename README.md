@@ -3,7 +3,7 @@
 <h2 align="center">Welcome, I'm Gideon Aremu</h2>
 <h4 align="center">Data Science & Finance Enthusiast | Python, SQL, Power BI, Excel </h4>
 <img align="right" alt"Data Science" width="400" src="https://miro.medium.com/v2/resize:fit:900/1*YCrp0Z8mAOe2IUV9XmlEDw.gif">
-
+<br></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ag1104&label=Profile%20views&color=0e75b6&style=flat" alt="ag1104" /> </p>
 
 
