@@ -1,21 +1,19 @@
 <p></p>
 <img align="center" alt"Data Science" width="1600" height="380" src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=KTbbDeJ4Wwf6KFCPZ0Q1Et1jbaD7d81SHbTx-NVs3QA">
-<h1 align="center">Hi 👋, I'm Gideon Aremu</h1>
-<h3 align="center">A passionate Data Scientist from Nigeria</h3>
+<h1 align="center">Welcome, I'm Gideon Aremu</h1>
+<h3 align="center">Data Science & Finance Enthusiast | Python, SQL, Power BI, Excel </h3>
 <img align="right" alt"Data Science" width="400" src="https://miro.medium.com/v2/resize:fit:900/1*YCrp0Z8mAOe2IUV9XmlEDw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ag1104&label=Profile%20views&color=0e75b6&style=flat" alt="ag1104" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/gheedhion" target="blank"><img src="https://img.shields.io/twitter/follow/gheedhion?logo=twitter&style=for-the-badge" alt="gheedhion" /></a> </p>
+<p><b> ABOUT ME </b></p>
+<p> I am a data enthusiast with a strong focus on the intersection of <b> Data Science and Finance </b> where analytical precision meets strategic decision-making. I excel at exploring datasets, identifying trends, and developing models that transform raw financial information into clear, actionable insights.
 
-- 🔭 I’m currently working on [Employee Survey Data](file:///C:/Users/gideo/Downloads/Employee%20Survey.html)
+My skill set includes <b>Python (Pandas, NumPy, Scikit-learn), SQL, and Excel </b>, complemented by expertise in visualization tools such as <b> Power BI, Matplotlib, and Seaborn.</b> I take pride in delivering solutions that not only address complex problems but also communicate insights effectively.
 
-- 🌱 I’m currently learning **Data Science**
-
-- 📫 How to reach me **gideonaremu.a@gmail.com**
-
-- ⚡ Fun fact **I Love Snacks than food**
+Whether automating financial reporting processes or applying advanced analytical techniques, I approach every project with curiosity, attention to detail, and a commitment to creating measurable business value. </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
